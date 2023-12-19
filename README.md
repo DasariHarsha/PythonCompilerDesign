@@ -1,4 +1,4 @@
-Step1: Download and unzip the file
+Step1: Download and unzip the file/n
 Step2: Import the project in eclipse
 Step3: Windows-->preferences-->ANTLR4-->tool
 Step4:![image](https://github.com/DasariHarsha/PythonCompilerDesign/assets/85623307/04a2c99c-6b68-4cb7-8e3a-3371567ffada)
