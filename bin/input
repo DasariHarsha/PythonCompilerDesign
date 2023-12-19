@@ -1,0 +1,15 @@
+def add(a,b):
+INDENT
+if(a==1):
+INDENT
+l=20
+DEDENT
+c=5
+k="hi"
+return c
+DEDENT
+myfunc=add(5,10)
+d="hi"
+n=5
+n=6
+print(myfunc+d)
